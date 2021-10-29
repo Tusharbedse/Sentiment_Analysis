@@ -48,7 +48,7 @@ You will need [Python3 installed](https://www.python.org/downloads/) on your loc
 
 # Interface Sample
 
-![image](https://user-images.githubusercontent.com/45168689/121368290-65f62c80-c954-11eb-97ff-6c84a9eba73c.png)
+![image](https://raw.githubusercontent.com/Tusharbedse/Sentiment_Analysis/master/static/Screenshot.PNG)
 
  
 
