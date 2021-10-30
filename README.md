@@ -34,6 +34,11 @@ To get the app working locally:
 
 9. You can also access it typing by `http://localhost:5000/`
 
+
+###  Docker image : https://hub.docker.com/r/tusharbedse/flaskapp
+
+Docker Pull Command :   docker pull tusharbedse/flaskapp
+
 # Prerequisites
 
 You will need [Python3 installed](https://www.python.org/downloads/) on your local machine.
