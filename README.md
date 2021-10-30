@@ -37,7 +37,7 @@ To get the app working locally:
 
 ###  Docker image : https://hub.docker.com/r/tusharbedse/flaskapp
 
-Docker Pull Command :   docker pull tusharbedse/flaskapp
+Docker Pull Command :   `docker pull tusharbedse/flaskapp`
 
 # Prerequisites
 
